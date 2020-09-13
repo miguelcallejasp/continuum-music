@@ -1,0 +1,19 @@
+{
+   "date":"Sun, 13 Sep 2020 03:31:24 GMT",
+   "content-type":"text/html;charset=utf-8",
+   "x-frame-options":"deny",
+   "x-ua-compatible":"IE=edge",
+   "cache-control":"no-cache, no-store, must-revalidate",
+   "pragma":"no-cache",
+   "set-cookie":"__Host-device_id=AQAKke8ezU-HLFzyC85iSQGwZHEpaKGNly7nr9K91KWb2s9del3bnRQTiQI0Wc84aDElIHJBmFepG6Rrj3PELJVlQ6kautM9Kes;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax, __Secure-TPASESSION=AQBrJcZNQqurNAqGxY6vYYH/uZRybGsgFag3HLImVq0DrHJLhvJEvAKS47OluXoOYCm2J5nfiS+2Jio2IjNtOAakzYo/q0dezdU=;Version=1;Domain=accounts.spotify.com;Path=/;Secure;HttpOnly;SameSite=None, csrf_token=AQCowDAyGTSUZaJXAAf1N0tA-EHtwLLHWerECoesuiqoCW7svmbg0l2yT5SqpuD2Q9wAhHLNa--dyg-LXA;Version=1;Domain=accounts.spotify.com;Path=/;Secure;SameSite=Lax",
+   "content-security-policy":"default-src 'self'; script-src 'self' https://www.google-analytics.com https://ssl.google-analytics.com https://www.google.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://accounts.scdn.co; img-src 'self' https://i.imgur.com https://d2mv8tnci56s9d.cloudfront.net https://profile-images.scdn.co https://*.scdn.co https://graph.facebook.com https://fbcdn-profile-a.akamaihd.net https://*.fbcdn.net https://platform-lookaside.fbsbx.com https://www.google.com https://www.google-analytics.com https://stats.g.doubleclick.net data: https://accounts.scdn.co; font-src 'self' data: https://sp-bootstrap.global.ssl.fastly.net https://fonts.gstatic.com https://accounts.scdn.co; style-src 'self' 'unsafe-inline' https://accounts.scdn.co; frame-src 'self' https://www.spotify.com https://www.google.com https://app.adjust.com https://itunes.apple.com itms-apps: https://www.google.com/recaptcha/; connect-src 'self' https://www.google-analytics.com;",
+   "x-content-security-policy":"default-src 'self'; script-src 'self' https://www.google-analytics.com https://ssl.google-analytics.com https://www.google.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://accounts.scdn.co; img-src 'self' https://i.imgur.com https://d2mv8tnci56s9d.cloudfront.net https://profile-images.scdn.co https://*.scdn.co https://graph.facebook.com https://fbcdn-profile-a.akamaihd.net https://*.fbcdn.net https://platform-lookaside.fbsbx.com https://www.google.com https://www.google-analytics.com https://stats.g.doubleclick.net data: https://accounts.scdn.co; font-src 'self' data: https://sp-bootstrap.global.ssl.fastly.net https://fonts.gstatic.com https://accounts.scdn.co; style-src 'self' 'unsafe-inline' https://accounts.scdn.co; frame-src 'self' https://www.spotify.com https://www.google.com https://app.adjust.com https://itunes.apple.com itms-apps: https://www.google.com/recaptcha/; connect-src 'self' https://www.google-analytics.com;",
+   "server":"envoy",
+   "strict-transport-security":"max-age=31536000",
+   "x-content-type-options":"nosniff",
+   "vary":"Accept-Encoding",
+   "content-encoding":"gzip",
+   "Via":"HTTP/2 edgeproxy, 1.1 google",
+   "Alt-Svc":"clear",
+   "Transfer-Encoding":"chunked"
+}
