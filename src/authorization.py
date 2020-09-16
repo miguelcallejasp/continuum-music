@@ -8,7 +8,7 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 def auth_flow():
-    uri='https://accounts.spotify.com/authorize?client_id=5fe01282e44241328a84e7c5cc169165&response_type=code&redirect_uri=https%3A%2F%2Fexample.com%2Fcallback&scope=user-read-private%20user-read-email'
+    uri='https://accounts.spotify.com/authorize?client_id=e274800bab804d90862360fe3363a785&response_type=code&redirect_uri=http%3A%2F%2Flocalhost:8080%2Fcallback&scope=user-read-private%20user-read-email'
     r = requests.get(uri)
     print(r.content)
     print(r.status_code)
@@ -22,6 +22,10 @@ def start():
 
     return next.content, next.status_code
 
+@app.route('/callback', methods=["GET"])
+def callback():
+    #Validation
+    return "callback here", 200
 
 if __name__ == '__main__':
     logging.info("Starting Service")
